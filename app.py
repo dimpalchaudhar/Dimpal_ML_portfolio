@@ -237,7 +237,7 @@ if page == "🏠 Home":
         try:
 
             st.image(
-                "assets\Dimpal_IMG.jpeg",
+                "assets/Dimpal_IMG.jpeg",
                 # caption="Dimpal Ramesh Chaudhari",
                 use_container_width=True
             )
